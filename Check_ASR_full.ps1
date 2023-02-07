@@ -208,5 +208,5 @@ else
 $Value16 = "0"
 }
 
-$hash = @{ ASR1 = $value1; ASR2 = $Value2;ASR3 = $Value3; ASR4 = $Value4; ASR5 = $Value5; ASR6 = $Value6; ASR7 = $Value7; ASR8 = $Value8; ASR9 = $Value9; ASR10 = $Value10; ASR11 = $Value11; ASR12 = $Value12; ASR13 = $Value13; ASR14 = $Value14; ASR15 = $Value15; ASR16 = $Value16}
+$hash = @{ ASR1 = $value1; ASR2 = $Value2; ASR3 = $Value3; ASR4 = $Value4; ASR5 = $Value5; ASR6 = $Value6; ASR7 = $Value7; ASR8 = $Value8; ASR9 = $Value9; ASR10 = $Value10; ASR11 = $Value11; ASR12 = $Value12; ASR13 = $Value13; ASR14 = $Value14; ASR15 = $Value15; ASR16 = $Value16}
 return $hash | ConvertTo-Json -Compress
