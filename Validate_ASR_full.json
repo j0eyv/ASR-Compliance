@@ -1,0 +1,148 @@
+{
+    "Rules":[ 
+       { 
+              "SettingName":"ASR2",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 2 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            },
+            { 
+              "SettingName":"ASR4",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 4 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            },
+            { 
+              "SettingName":"ASR5",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 5 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            },
+       { 
+              "SettingName":"ASR6",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 6 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            },
+            { 
+              "SettingName":"ASR7",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 7 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            },
+            { 
+              "SettingName":"ASR8",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 8 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            },
+            { 
+              "SettingName":"ASR9",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 9 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            },
+            { 
+              "SettingName":"ASR10",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 10 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            },
+            { 
+              "SettingName":"ASR13",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 13 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            },
+            { 
+              "SettingName":"ASR14",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 14 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            },
+            { 
+              "SettingName":"ASR15",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 15 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            },
+            { 
+              "SettingName":"ASR16",
+              "Operator":"IsEquals",
+              "DataType":"Int64",
+              "Operand":"1",
+              "MoreInfoUrl":"https://joeyverlinden.com",
+              "RemediationStrings":[{ 
+                    "Language":"en_US",
+                    "Title":"ASR Rule 16 missing",
+                    "Description": "Our corporate compliance policy requires specific ASR rules on your device."
+                   }]
+            }
+            ]
+}  
